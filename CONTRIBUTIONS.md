@@ -1,4 +1,3 @@
-# mtanvi19.github.io
 # Contributing to The Learner's Blog
 
 Welcome to The Learner's Blog! We appreciate your interest in contributing to the community and helping enrich the content. Whether you are passionate about STEM, open source, finance, or any related topics, your contributions are valuable.
