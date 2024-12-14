@@ -5,7 +5,7 @@ title: Home
 
 # tanvincible
 
-I'm **Tanvi Pooranmal Meena**, an undergraduate student interested in **machine learning**, **quantum computing**, and **open-source**.  
+I'm **Tanvi Pooranmal Meena**. I build things with code, explore number theory, and focus on simplifying complex problems.  
 This site features my projects and work.
 
 ## About Me
@@ -23,4 +23,4 @@ My goal is to contribute meaningfully to these fields and continue learning thro
 
 Feel free to reach out via [tanvipm19@gmail.com](mailto:tanvipm19@gmail.com).
 
-Thank you for visiting!
+#### Thank you for visiting!
