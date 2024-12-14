@@ -5,7 +5,10 @@ title: Home
 
 # tanvincible
 
-I'm **Tanvi Pooranmal Meena**. I build things with code, explore number theory, and focus on simplifying complex problems.  
+Hi there! 👋  
+I'm **Tanvi Pooranmal Meena**.  
+I build things with code, explore number theory, and focus on simplifying complex problems.  
+
 This site features my projects and work.
 
 ## About Me
