@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # GitHub Pages gem compatible with Jekyll 3.9.0
-gem 'github-pages', '~> 228', group: :jekyll_plugins
+gem 'github-pages', group: :jekyll_plugins
 
 # Lock liquid to a compatible version for GitHub Pages 228
 gem 'liquid', '~> 4.0.4'
