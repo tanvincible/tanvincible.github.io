@@ -5,7 +5,7 @@ title: Home
 
 # tanvincible
 
-Hi there! 👋  
+Hello there! 👋  
 I'm **Tanvi Pooranmal Meena** — a builder, thinker, and problem-solver. 
 
 I’m passionate about **number theory**, **machine learning**, and **quantum computing**, and I spend my time simplifying complex challenges. 
@@ -20,31 +20,18 @@ Alongside my studies, I’m diving into the world of **machine learning** and **
 
 My goal is to keep pushing boundaries in these areas while sharing what I learn with others.
 
----
+## Explore
 
-## Explore My Work
+- **What’s New**:  
+  See what I’m currently thinking and building on my [Now page](/now).
 
-If you’re interested in what I’m working on right now, you can follow my journey in real time:
+- **Ideas & Inspiration**:  
+Discover thoughts, notes, and quotes in my [Blogs](/blogs) and [Quotes](/quotes) collections.
 
-- Check out my [**Now page**](/now) for updates on my ongoing projects and thoughts.
-- I’ve also curated a [**Reading List**](/reading-list) with books, papers, and articles that are shaping my thinking.
-
----
-
-## Inspirations & Recommendations
-
-I often find inspiration from a variety of sources that help shape my worldview.
-
-Here are a few ways I share these inspirations:
-
-- A collection of quotes that inspire me can be found on the [**Quotes**](/quotes) page.
-- A list of [**Recommendations**](/recommendations) for interesting resources, software, or tools that I’ve found useful.
-
----
+- **Resources**:  
+  Explore my [Reading List](/reading-list), [Toolbox](/toolbox), and [Recommendations](/recommendations) for useful books, tools, and resources.
 
 ## Links
-
-If you’d like to know more about my professional background, here are a few places to connect:
 
 - [**CV**](https://drive.google.com/file/d/1X0k_9NCodCuM3C_k_VqecOmHQqGicRVN/view?usp=sharing)  
 - [**GitHub**](https://github.com/tanvincible)
@@ -55,4 +42,6 @@ Feel free to reach out via [**tanvipm19@gmail.com**](mailto:tanvipm19@gmail.com)
 
 ---
 
-#### Thanks for visiting!
+## Changelog & Site Info
+
+For updates and insights, check out the [Changelog](/changelog) and [Building This Site](/building-this-site) page.
