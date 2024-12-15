@@ -13,17 +13,45 @@ This site features my projects and work.
 
 ## About Me
 
-I'm currently studying [**Mechanical Engineering**](https://www.iitk.ac.in/me/) at [**IIT Kanpur**](https://www.iitk.ac.in/) and exploring the intersection of **number theory**, **machine learning**, and **quantum computing**.  
-My goal is to contribute meaningfully to these fields and continue learning throughout my career.
+I’m currently an undergraduate student majoring in [**Mechanical Engineering**](https://www.iitk.ac.in/me/) at [**IIT Kanpur**](https://www.iitk.ac.in/).  
+
+Alongside my studies, I’m diving into the world of **machine learning** and **quantum computing**, always trying to connect dots between these fields and **number theory**. 
+
+My goal is to keep pushing boundaries in these areas while sharing what I learn with others.
+
+---
+
+## Explore My Work
+
+If you’re interested in what I’m working on right now, you can follow my journey in real time:
+
+- Check out my [**Now page**](/now) for updates on my ongoing projects and thoughts.
+- I’ve also curated a [**Reading List**](/reading-list) with books, papers, and articles that are shaping my thinking.
+
+---
+
+## Inspirations & Recommendations
+
+I often find inspiration from a variety of sources that help shape my worldview.
+
+Here are a few ways I share these inspirations:
+
+- A collection of quotes that inspire me can be found on the [**Quotes**](/quotes) page.
+- A list of [**Recommendations**](/recommendations) for interesting resources, software, or tools that I’ve found useful.
+
+---
 
 ## Links
 
-- [CV](https://drive.google.com/file/d/1X0k_9NCodCuM3C_k_VqecOmHQqGicRVN/view?usp=sharing)  
+If you’d like to know more about my professional background, here are a few places to connect:
 
-- [GitHub](https://github.com/tanvincible)  
+- [**CV**](https://drive.google.com/file/d/1X0k_9NCodCuM3C_k_VqecOmHQqGicRVN/view?usp=sharing)  
+- [**GitHub**](https://github.com/tanvincible)
 
 ## Contact
 
-Feel free to reach out via [tanvipm19@gmail.com](mailto:tanvipm19@gmail.com).
+Feel free to reach out via [**tanvipm19@gmail.com**](mailto:tanvipm19@gmail.com).
 
-#### Thank you for visiting!
+---
+
+#### Thanks for visiting!
