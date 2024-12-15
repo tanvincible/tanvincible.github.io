@@ -6,10 +6,11 @@ title: Home
 # tanvincible
 
 Hi there! 👋  
-I'm **Tanvi Pooranmal Meena**.  
-I build things with code, explore number theory, and focus on simplifying complex problems.  
+I'm **Tanvi Pooranmal Meena** — a builder, thinker, and problem-solver. 
 
-This site features my projects and work.
+I’m passionate about **number theory**, **machine learning**, and **quantum computing**, and I spend my time simplifying complex challenges. 
+
+This site is a reflection of my work, thoughts, and the things I’m learning.
 
 ## About Me
 
