@@ -12,7 +12,7 @@ Welcome to the **Changelog**! Here, I document the evolution of this site, from 
 Feel free to check back to see how this site develops over time.
 
 ---
-
+<!--
 ## Navigation
 
 - [Site Updates](#site-updates)
@@ -21,11 +21,14 @@ Feel free to check back to see how this site develops over time.
 - [Miscellaneous](#miscellaneous)
 
 ---
-
+-->
 ## Site Updates
 
+### 2024-12-17
+- 
+
 ### 2024-12-16
-- Initialized [**Now**](/now), [**Toolbox**](/toolbox), [**Reading list**](/reading-list), [**Recommendations**](/recommendations) and [**Quotes**](/quotes) page.
+- Initialized [**Now**](/now), [**Toolbox**](/toolbox), [**Reading list**](/reading-list), [**Recommendations**](/recommendations) page.
 - Created the [**Blogs**](/blogs) page to share occasional blogs.
 - Added the [**Site Blueprint**](/site-blueprint) page to share details about the site's creation.
 
@@ -34,13 +37,11 @@ Feel free to check back to see how this site develops over time.
 
 ### 2024-12-14
 - Launched the **first version** of the site live with basic structure and content.
+<!--
 
 ---
 
 ## Content Changes
-
-### 2024-12-16
-- Removed **Quotes** page.
 
 ---
 
@@ -53,7 +54,6 @@ None
 ## Miscellaneous
 
 None
-
----
+-->
 
 [← Back to Home](/)

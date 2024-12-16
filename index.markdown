@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Home
+last_modified_at: 2024-12-16
 ---
 
 # tanvincible
 
 Hello there! 👋  
-I'm **Tanvi Pooranmal Meena** — a builder, thinker, and problem-solver. 
+I'm **Tanvi Pooranmal Meena** (she/her) — a builder, thinker, and problem-solver. 
 
 This site is a reflection of my work, thoughts, and the things I’m learning.
 
@@ -52,3 +53,5 @@ Your input is appreciated!
 ## Changelog & Site Info
 
 For updates and insights, check out the [**Changelog**](/changelog) and [**Site Blueprint**](/site-blueprint) page.
+
+##### Last Updated: {{ page.last_modified_at | date: "%B %d, %Y" }}
