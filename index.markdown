@@ -42,6 +42,15 @@ Feel free to reach out via [**tanvipm19@gmail.com**](mailto:tanvipm19@gmail.com)
 
 ---
 
+## 📢 **Notice**
+
+**Some pages are under active development.**
+
+If you encounter any issues or have feedback, please open an issue on the [GitHub Issue Tracker](https://github.com/tanvincible/tanvincible.github.io/issues).  
+Your input is appreciated!
+
+---
+
 ## Changelog & Site Info
 
 For updates and insights, check out the [Changelog](/changelog) and [Site Blueprint](/site-blueprint) page.
