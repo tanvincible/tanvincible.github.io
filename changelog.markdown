@@ -25,7 +25,8 @@ Feel free to check back to see how this site develops over time.
 ## Site Updates
 
 ### 2024-12-16
-- CReated the [**Blogs**](/blogs) page to share occasional blogs.
+- Initialize blank [**Now**](/now), [**Toolbox**](/toolbox), [**Reading list**](/reading-list), [**Recommendations**](/recommendations) and [**Quotes**](/quotes) page.
+- Created the [**Blogs**](/blogs) page to share occasional blogs.
 - Added the [**Site Blueprint**](/site-blueprint) page to share details about the site's creation.
 
 ### 2024-12-15
