@@ -25,7 +25,7 @@ Feel free to check back to see how this site develops over time.
 ## Site Updates
 
 ### 2024-12-16
-- Initialize blank [**Now**](/now), [**Toolbox**](/toolbox), [**Reading list**](/reading-list), [**Recommendations**](/recommendations) and [**Quotes**](/quotes) page.
+- Initialized [**Now**](/now), [**Toolbox**](/toolbox), [**Reading list**](/reading-list), [**Recommendations**](/recommendations) and [**Quotes**](/quotes) page.
 - Created the [**Blogs**](/blogs) page to share occasional blogs.
 - Added the [**Site Blueprint**](/site-blueprint) page to share details about the site's creation.
 
@@ -39,7 +39,8 @@ Feel free to check back to see how this site develops over time.
 
 ## Content Changes
 
-None
+### 2024-12-16
+- Removed **Quotes** page.
 
 ---
 
