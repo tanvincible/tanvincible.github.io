@@ -21,3 +21,8 @@ gem 'webrick', '~> 1.7'
 
 gem 'csv'
 gem 'bigdecimal'
+
+group :jekyll_plugins do
+    gem "jekyll-compose"
+  end
+  
