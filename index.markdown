@@ -16,7 +16,7 @@ This site is a reflection of my work, thoughts, and the things I’m learning.
 
 I’m currently an undergraduate student majoring in [**Mechanical Engineering**](https://www.iitk.ac.in/me/) at [**IIT Kanpur**](https://www.iitk.ac.in/).  
 
-Alongside my studies, I’m diving into the world of **machine learning** and **quantum computing**, always trying to connect dots between these fields and **number theory**. 
+Alongside my studies, I’m also diving into the world of **machine learning** and **quantum computing**, always trying to connect dots between these fields and **number theory**. 
 
 My goal is to keep pushing boundaries in these areas while sharing what I learn with others.
 
@@ -44,4 +44,4 @@ Feel free to reach out via [**tanvipm19@gmail.com**](mailto:tanvipm19@gmail.com)
 
 ## Changelog & Site Info
 
-For updates and insights, check out the [Changelog](/changelog) and [Building This Site](/building-this-site) page.
+For updates and insights, check out the [Changelog](/changelog) and [Site Blueprint](/site-blueprint) page.
