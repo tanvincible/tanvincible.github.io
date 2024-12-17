@@ -4,7 +4,7 @@ title: Toolbox
 last_modified_at: 2024-12-16
 ---
 
-[← Back to Home](/)
+#### [← Back to Home](/)
 
 # Toolbox
 
@@ -24,12 +24,6 @@ last_modified_at: 2024-12-16
 - **TypeScript/JavaScript** – For web development with React and Next.js.
 - **C++** – For competitive programming and performance-critical applications.
 
-## ☁️ Cloud Services
-
-- **Google Cloud Platform** – Hosting, storage, and database services.
-- **Firebase** – For backend services and real-time databases.
-- **Netlify** – For deploying static websites.
-
 ## 🛠️ Utilities
 
 - **tmux** – Terminal multiplexer for managing multiple terminal sessions.
@@ -37,6 +31,6 @@ last_modified_at: 2024-12-16
 - **ripgrep** – For blazing-fast code searching.
 - **gh** – GitHub’s command-line tool.
 
-[← Back to Home](/)
+#### [← Back to Home](/)
 
 ##### Last Updated: {{ page.last_modified_at | date: "%B %d, %Y" }}

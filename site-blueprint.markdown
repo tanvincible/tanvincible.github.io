@@ -3,7 +3,7 @@ layout: default
 title: Site Blueprint
 ---
 
-[← Back to Home](/)
+#### [← Back to Home](/)
 
 # Site Blueprint
 
