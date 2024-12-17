@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-last_modified_at: 2024-12-16
+last_modified_at: 2024-12-17
 ---
 
 # tanvincible
@@ -19,6 +19,7 @@ I’m passionate about **number theory**, **machine learning**, and **quantum co
 
 My goal is to keep pushing boundaries in these areas while sharing what I learn with others.
 
+<!--
 ## Explore
 
 - **What’s New**:  
@@ -29,6 +30,7 @@ Discover thoughts, notes, and occassional quotes in my [**Blogs**](/blogs) colle
 
 - **Resources**:  
   Explore my [**Reading List**](/reading-list), [**Toolbox**](/toolbox), and [**Recommendations**](/recommendations) for useful books, tools, and resources.
+-->
 
 ## Links
 
@@ -48,10 +50,12 @@ Your input is appreciated!
 
 **Some pages are under active development.**
 
+<!--
 ---
 
 ## Changelog & Site Info
 
 For updates and insights, check out the [**Changelog**](/changelog) and [**Site Blueprint**](/site-blueprint) page.
+-->
 
 ##### Last Updated: {{ page.last_modified_at | date: "%B %d, %Y" }}
