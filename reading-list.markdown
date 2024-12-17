@@ -1,10 +1,36 @@
 ---
 layout: default
 title: Reading list
+last_modified_at: 2024-12-17
 ---
 
-[← Back to Home](/)
+#### [← Back to Home](/)
 
-# Reading list
+# Reading List
 
-*This page is under active development.*
+*A collection of books and articles that I’ve read, am reading, or plan to read.* 
+
+**Curiosity drives everything!**
+
+## 📖 Currently Reading
+
+- "The Pragmatic Programmer: Your Journey to Mastery" by Andrew Hunt and David Thomas
+- "OCaml from the Very Beginning" by John Whitington
+
+## ✅ Finished Reading
+
+- "Richard Feynman: A Life in Science" by John and Mary Gribbin
+- "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" by Ernie Chan
+
+## 📚 To Be Read
+
+- "Proofs from THE BOOK" by Martin Aigner and Günter M. Ziegler
+
+## 🌐 Articles & Papers
+
+- ["On the Number of Prime Numbers less than
+a Given Quantity." by Bernhard Riemann](https://www.claymath.org/wp-content/uploads/2023/04/Wilkins-translation.pdf)
+
+#### [← Back to Home](/)
+
+##### Last Updated: {{ page.last_modified_at | date: "%B %d, %Y" }}

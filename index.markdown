@@ -15,11 +15,10 @@ This site is a reflection of my work, thoughts, and the things I’m learning.
 
 I’m currently an undergraduate student majoring in [**Mechanical Engineering**](https://www.iitk.ac.in/me/) at [**IIT Kanpur**](https://www.iitk.ac.in/).  
 
-I’m passionate about **number theory**, **machine learning**, and **quantum computing**, and I spend my time simplifying complex challenges. 
+I’m passionate about **number theory**, **software development**, **machine learning**, and **quantum computing**, and I spend my time simplifying complex challenges. 
 
 My goal is to keep pushing boundaries in these areas while sharing what I learn with others.
 
-<!--
 ## Explore
 
 - **What’s New**:  
@@ -30,7 +29,6 @@ Discover thoughts, notes, and occassional quotes in my [**Blogs**](/blogs) colle
 
 - **Resources**:  
   Explore my [**Reading List**](/reading-list), [**Toolbox**](/toolbox), and [**Recommendations**](/recommendations) for useful books, tools, and resources.
--->
 
 ## Links
 
@@ -50,12 +48,10 @@ Your input is appreciated!
 
 **Some pages are under active development.**
 
-<!--
 ---
 
 ## Changelog & Site Info
 
 For updates and insights, check out the [**Changelog**](/changelog) and [**Site Blueprint**](/site-blueprint) page.
--->
 
 ##### Last Updated: {{ page.last_modified_at | date: "%B %d, %Y" }}
