@@ -14,7 +14,8 @@ last_modified_at: 2024-12-17
 
 ## 📖 Currently Reading
 
-- "The Pragmatic Programmer: Your Journey to Mastery" by Andrew Hunt and David Thomas
+- "The Pragmatic Programmer: Your Journey to Mastery" by Andrew Hunt and David Thomas  
+I actively compile all the **tips** [here](/tips).
 - "OCaml from the Very Beginning" by John Whitington
 
 ## ✅ Finished Reading
