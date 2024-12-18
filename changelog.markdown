@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Changelog
-last_modified_at: 2024-12-18
+last_modified_at: 2024-12-19
 ---
 
 #### [← Back to Home](/)
@@ -24,6 +24,9 @@ Feel free to check back to see how this site develops over time.
 ---
 -->
 ## Site Updates
+
+### 2024-12-19
+- Created [**2025 Reading List**](/2025-reading-list) inspired by *The Pragmatic Programmer* with plans to share notes.
 
 ### 2024-12-17
 - Created the [**Tips**](/tips) page to compile code from **"The Pragmatic Programmer: Your Journey to Mastery" by Andrew Hunt and David Thomas**

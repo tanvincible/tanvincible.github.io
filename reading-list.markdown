@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reading list
-last_modified_at: 2024-12-17
+last_modified_at: 2024-12-19
 ---
 
 #### [← Back to Home](/)
@@ -11,6 +11,10 @@ last_modified_at: 2024-12-17
 *A collection of books and articles that I’ve read, am reading, or plan to read.* 
 
 **Curiosity drives everything!**
+
+## 📣 Announcement
+
+Check out my upcoming **[2025 Reading List](/2025-reading-list)** – a curated list of books across pure math, machine learning, quant trading, and more to explore throughout the year!
 
 ## 📖 Currently Reading
 
@@ -26,6 +30,7 @@ I actively compile all the **tips** [here](/tips).
 ## 📚 To Be Read
 
 - "Proofs from THE BOOK" by Martin Aigner and Günter M. Ziegler
+- "A Mathematician's Apology" by G. H. Hardy
 
 ## 🌐 Articles & Papers
 
