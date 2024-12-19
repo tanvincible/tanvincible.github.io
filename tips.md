@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reading list
-last_modified_at: 2024-12-18
+last_modified_at: 2024-12-19
 ---
 
 #### [← Back to Home](/)
@@ -21,6 +21,10 @@ _These **tips** are actively being compiled from **"The Pragmatic Programmer: Yo
 9. Invest Regularly in Your Knowledge Portfolio
 10. Critically Analyze What You Read and Hear
 11. English is Just Another Programming Language
+12. It’s Both What You Say and the Way You Say It
+13. Build Documentation In, Don’t Bolt It On
+14. Good Design Is Easier to Change Than Bad Design
+15. DRY—Don’t Repeat Yourself
 
 #### [← Back to Home](/)
 

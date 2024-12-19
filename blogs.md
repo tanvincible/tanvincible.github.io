@@ -13,3 +13,5 @@ Welcome to my blog! Here you'll find my thoughts, insights, and learnings.
 - [**{{ post.title }}**]({{ post.url }}) <br>
   <small>{{ post.date | date: "%B %d, %Y" }}</small>
 {% endfor %}
+
+*Currently under development.*
