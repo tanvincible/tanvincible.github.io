@@ -25,6 +25,8 @@ _These **tips** are actively being compiled from **"The Pragmatic Programmer: Yo
 13. Build Documentation In, Don’t Bolt It On
 14. Good Design Is Easier to Change Than Bad Design
 15. DRY—Don’t Repeat Yourself
+16. Make It Easy to Reuse
+17. Eliminate Effects Between Unrelated Things
 
 #### [← Back to Home](/)
 

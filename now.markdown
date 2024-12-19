@@ -11,9 +11,9 @@ last_modified_at: 2024-12-16
 *What I’m currently up to.*
 
 - Exploring new ideas in **number theory** and **quantum computing**.
-- Developing personal projects like **tanvim** and **ravon**.
+- Developing personal projects like **tanvim (Personal Vim distribution)** and **ravon (Clipboard Sync Tool)**.
 - Contributing to **open-source** initiatives.
-- Continuously learning and improving my skills.
+- Continuously learning and improving my **software development** and **competitive programming** skills.
 
 ---
 
