@@ -22,6 +22,9 @@ gem 'webrick', '~> 1.7'
 gem 'csv'
 gem 'bigdecimal'
 
+gem "activesupport", ">= 6.1.7.5"
+
+
 group :jekyll_plugins do
     gem "jekyll-compose"
     gem 'jekyll-sitemap'
