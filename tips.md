@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reading list
-last_modified_at: 2024-12-19
+last_modified_at: 2024-12-20
 ---
 
 #### [← Back to Home](/)
@@ -27,6 +27,10 @@ _These **tips** are actively being compiled from **"The Pragmatic Programmer: Yo
 15. DRY—Don’t Repeat Yourself
 16. Make It Easy to Reuse
 17. Eliminate Effects Between Unrelated Things
+18. There Are No Final Decisions
+19. Forgo Following Fads
+20. Use Tracer Bullets to Find the Target
+21. Prototype to Learn
 
 #### [← Back to Home](/)
 
