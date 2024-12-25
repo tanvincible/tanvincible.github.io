@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-last_modified_at: 2024-12-20
+last_modified_at: 2024-12-25
 ---
 
 # tanvincible
@@ -24,13 +24,13 @@ My goal is to keep pushing boundaries in these areas while sharing what I learn 
 ## Explore
 
 - **What’s New**:  
-  See what I’m currently thinking and building on my [**Now page**](/now).
+  See what I’m currently thinking and building on my [**Now page**](/pages/now).
 
 - **Ideas & Inspiration**:  
-Discover thoughts, notes, and occassional quotes in my [**Blogs**](/blogs) collections.
+Discover thoughts, notes, and occassional quotes in my [**Blogs**](/pages/blogs) collections.
 
 - **Resources**:  
-  Explore my [**Reading List**](/reading-list), [**Toolbox**](/toolbox), and [**Recommendations**](/recommendations) for useful books, tools, and resources.
+  Explore my [**Reading List**](/reading-list), [**Toolbox**](/pages/toolbox), and [**Recommendations**](/pages/recommendations) for useful books, tools, and resources.
 
 -->
 
@@ -58,7 +58,7 @@ Your input is appreciated!
 
 ## Changelog & Site Info
 
-For updates and insights, check out the [**Changelog**](/changelog) and [**Site Blueprint**](/site-blueprint) page.
+For updates and insights, check out the [**Changelog**](/pages/changelog) and [**Site Blueprint**](/pages/site-blueprint) page.
 
 -->
 
