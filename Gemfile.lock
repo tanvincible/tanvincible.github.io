@@ -1,7 +1,7 @@
 GIT
-  remote: https://github.com/tanvincible/no-style-please.git
-  revision: ea18f3209f95d5465ee27d2a7799dd0a3e26c983
-  branch: web
+  remote: https://github.com/riggraz/no-style-please
+  revision: 8590b99204acf4d67251762f03edbd6090741034
+  branch: master
   specs:
     no-style-please (0.4.7)
       jekyll (~> 3.9.0)

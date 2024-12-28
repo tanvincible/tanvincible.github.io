@@ -6,7 +6,7 @@ last_modified_at: 2024-12-26
 
 # tanvincible
 
-Hello there! 👋  
+Hello there! <span class="emoji">👋</span>  
 I'm **Tanvi Pooranmal Meena** (she/her) — a builder, thinker, and problem-solver. 
 
 This site is a reflection of my work, thoughts, and the things I’m learning.

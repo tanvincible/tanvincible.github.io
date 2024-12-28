@@ -6,7 +6,7 @@ last_modified_at: 2024-12-19
 
 #### [← Back to Home](/)
 
-# 📆 My 2025 Monthly Reading Plan
+# <span class="emoji">📆</span> My 2025 Monthly Reading Plan
 
 Inspired by *The Pragmatic Programmer*, I've decided to dive into **one technical book per month** to strengthen my knowledge and stay consistent in my learning journey.
 

@@ -10,21 +10,21 @@ last_modified_at: 2024-12-16
 
 *A curated list of tools and resources I use in my projects and workflow.*
 
-## 🖥️ Development Tools
+## <span class="emoji">🖥️</span> Development Tools
 
 - **VS Code** – My go-to code editor, configured for speed and simplicity.
 - **GitHub Actions** – For automating CI/CD workflows.
 - **Docker** – For containerizing applications and ensuring portability.
 - **Jekyll** – The static site generator behind this site.
 
-## 💻 Programming Languages
+## <span class="emoji">💻</span> Programming Languages
 
 - **Python** – For data analysis, scripting, and machine learning.
 - **Go** – For CLI tools and efficient backend services.
 - **TypeScript/JavaScript** – For web development with React and Next.js.
 - **C++** – For competitive programming and performance-critical applications.
 
-## 🛠️ Utilities
+## <span class="emoji">🛠️</span> Utilities
 
 - **tmux** – Terminal multiplexer for managing multiple terminal sessions.
 - **fzf** – A fast and versatile fuzzy finder.
