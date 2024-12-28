@@ -15,7 +15,7 @@ This site is a reflection of my work, thoughts, and the things I’m learning.
 
 I’m currently an undergraduate student majoring in [**Mechanical Engineering**](https://www.iitk.ac.in/me/) at [**IIT Kanpur**](https://www.iitk.ac.in/).  
 
-I’m passionate about **number theory**, **software development**, **machine learning**, and **quantum computing**, and I spend my time simplifying complex challenges. 
+I’m passionate about **software development** and **machine learning**, and I spend my time simplifying complex challenges. 
 
 My goal is to keep pushing boundaries in these areas while sharing what I learn with others.
 
@@ -48,7 +48,7 @@ Your input is appreciated!
 
 ---
 
-## 📢 **Notice**
+## <span class="emoji">📢</span> **Notice**
 
 **Some pages are under active development.**
 
