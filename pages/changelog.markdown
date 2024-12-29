@@ -32,7 +32,7 @@ Feel free to check back to see how this site develops over time.
 - Created [**2025 Reading List**](/pages/2025-reading-list) inspired by *The Pragmatic Programmer* with plans to share notes.
 
 ### 2024-12-17
-- Created the [**Tips**](/pages/tips) page to compile code from **"The Pragmatic Programmer: Your Journey to Mastery" by Andrew Hunt and David Thomas**
+- Created the [**Tips**](/pages/tips) page to compile tips from **"The Pragmatic Programmer: Your Journey to Mastery" by Andrew Hunt and David Thomas**
 
 ### 2024-12-16
 - Initialized [**Now**](/pages/now), [**Toolbox**](/pages/toolbox), [**Reading list**](/pages/reading-list), [**Recommendations**](/pages/recommendations) page.
