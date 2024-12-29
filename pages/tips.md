@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Reading list
-last_modified_at: 2024-12-20
+last_modified_at: 2024-12-30
 ---
 
-#### [← Back to Home](/)
+#### [Home](/) | [About](/about/) | [Blogs](/pages/blogs.md) | [GitHub](https://github.com/tanvincible)
 
 ## Characteristics of a **Pragmatic Programmer** 
 
@@ -31,7 +31,5 @@ _These **tips** are actively being compiled from **"The Pragmatic Programmer: Yo
 19. Forgo Following Fads
 20. Use Tracer Bullets to Find the Target
 21. Prototype to Learn
-
-#### [← Back to Home](/)
 
 ##### Last Updated: {{ page.last_modified_at | date: "%B %d, %Y" }}

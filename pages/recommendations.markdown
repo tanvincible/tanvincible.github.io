@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Recommendations
-last_modified_at: 2024-12-16
+last_modified_at: 2024-12-30
 ---
 
-#### [← Back to Home](/)
+#### [Home](/) | [About](/about/) | [Blogs](/pages/blogs.md) | [GitHub](https://github.com/tanvincible)
 
 # Recommendations
 
@@ -20,7 +20,5 @@ last_modified_at: 2024-12-16
 
 - **Firefox** – A privacy-focused web browser.
 - **tmux** – For managing multiple terminal sessions.
-
-#### [← Back to Home](/)
 
 ##### Last Updated: {{ page.last_modified_at | date: "%B %d, %Y" }}

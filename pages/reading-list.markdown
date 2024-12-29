@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Reading list
-last_modified_at: 2024-12-28
+last_modified_at: 2024-12-30
 ---
 
-#### [← Back to Home](/)
+#### [Home](/) | [About](/about/) | [Blogs](/pages/blogs.md) | [GitHub](https://github.com/tanvincible)
 
 # Reading List
 
@@ -36,7 +36,5 @@ I actively compile all the **tips** [here](/tips).
 
 - ["On the Number of Prime Numbers less than
 a Given Quantity." by Bernhard Riemann](https://www.claymath.org/wp-content/uploads/2023/04/Wilkins-translation.pdf)
-
-#### [← Back to Home](/)
 
 ##### Last Updated: {{ page.last_modified_at | date: "%B %d, %Y" }}

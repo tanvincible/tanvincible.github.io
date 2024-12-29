@@ -3,7 +3,7 @@ layout: default
 title: Blogs
 ---
 
-[← Back to Home](/)
+#### [Home](/) | [About](/about/) | [Blogs](/pages/blogs.md) | [GitHub](https://github.com/tanvincible)
 
 # Blogs
 

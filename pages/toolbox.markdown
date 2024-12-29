@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Toolbox
-last_modified_at: 2024-12-16
+last_modified_at: 2024-12-30
 ---
 
-#### [← Back to Home](/)
+#### [Home](/) | [About](/about/) | [Blogs](/pages/blogs.md) | [GitHub](https://github.com/tanvincible)
 
 # Toolbox
 
@@ -30,7 +30,5 @@ last_modified_at: 2024-12-16
 - **fzf** – A fast and versatile fuzzy finder.
 - **ripgrep** – For blazing-fast code searching.
 - **gh** – GitHub’s command-line tool.
-
-#### [← Back to Home](/)
 
 ##### Last Updated: {{ page.last_modified_at | date: "%B %d, %Y" }}
