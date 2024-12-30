@@ -13,6 +13,8 @@ Coming to things (the major ones) I am involved in (currently), there is [**Rust
 
 I don't remember how and where I stumbled onto [**Rust**](https://www.rust-lang.org/), but I find it interesting. I also find the [**Rust community**](https://github.com/rust-lang) very welcoming. I am progressing through [**THE BOOK**](https://doc.rust-lang.org/stable/book/) and plan to write blogs about my Rust journey.
 
-I also maintain (and use) the [**no-style-please**](https://github.com/riggraz/no-style-please) Jekyll theme (for my website). As the name suggests, this theme features a simple, functional design with minimal CSS. I find it particularly useful for my needs and try to keep it updated regarding its dependencies.
+I also maintain (and use) the [**no-style-please**](https://github.com/riggraz/no-style-please) Jekyll theme. As the name suggests, this theme features a simple, functional design with minimal CSS. I find it particularly useful for my needs and try to keep it updated regarding its dependencies.
+
+I am also trying out [**Neovim**](https://neovim.io/). I have always used VS Code (Code - OSS) for programming-related tasks. However, I wanted to switch to a Vim-based text editor partly because of its simplicity, to learn something new and to see if it fits my needs better.
 
 That's all for now, but I'm committed to writing more blogs and honing my writing skills. Your support and feedback are always appreciated. :)
