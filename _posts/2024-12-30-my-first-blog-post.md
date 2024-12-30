@@ -9,12 +9,12 @@ One of the key reasons I decided to write blogs in the first place is to keep tr
 
 Secondly, since the release of ChatGPT, I have relied on it too much. I use it as my automation tool, asking it to write emails, docs, reports, etc. In short, for any writing task requiring creativity and some thinking, I let ChatGPT take charge, resulting in my writing skills downgrading (as evident in this post). Anyway, I reckon writing blogs will help lessen the side effects of using the chatbot.
 
-Coming to things (the major ones) I am involved in (currently), there is [**Rust**](https://www.rust-lang.org/) and the [**no-style-please**](https://github.com/riggraz/no-style-please) Jekyll theme (that I maintain) and OSS (always).
+Coming to things (the major ones) I am involved in (currently), there is [**Rust**](https://www.rust-lang.org/) and the [**no-style-please**](https://github.com/riggraz/no-style-please) Jekyll theme (that I maintain), [**Neovim**](https://neovim.io/) and OSS (always).
 
 I don't remember how and where I stumbled onto [**Rust**](https://www.rust-lang.org/), but I find it interesting. I also find the [**Rust community**](https://github.com/rust-lang) very welcoming. I am progressing through [**THE BOOK**](https://doc.rust-lang.org/stable/book/) and plan to write blogs about my Rust journey.
 
 I also maintain (and use) the [**no-style-please**](https://github.com/riggraz/no-style-please) Jekyll theme. As the name suggests, this theme features a simple, functional design with minimal CSS. I find it particularly useful for my needs and try to keep it updated regarding its dependencies.
 
-I am also trying out [**Neovim**](https://neovim.io/). I have always used VS Code (Code - OSS) for programming-related tasks. However, I wanted to switch to a Vim-based text editor partly because of its simplicity, to learn something new and to see if it fits my needs better.
+I am also trying out [**Neovim**](https://neovim.io/). I have always used [**VS Code (Code - OSS)**](https://code.visualstudio.com/) for programming-related tasks. However, I wanted to switch to a Vim-based text editor partly because of its simplicity, to learn something new and to see if it fits my needs better.
 
 That's all for now, but I'm committed to writing more blogs and honing my writing skills. Your support and feedback are always appreciated. :)
