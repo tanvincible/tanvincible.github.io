@@ -44,6 +44,8 @@ Feel free to reach out via [**tanvipm19@gmail.com**](mailto:tanvipm19@gmail.com)
 If you encounter any issues or have feedback about this site, please open an issue on the [**GitHub Issue Tracker**](https://github.com/tanvincible/tanvincible.github.io/issues).  
 Your input is appreciated!
 
+<!--
+
 ---
 
 ## <span class="emoji">📢</span> **Notice**
@@ -52,7 +54,6 @@ Your input is appreciated!
 
 ---
 
-<!--
 
 ## Changelog & Site Info
 

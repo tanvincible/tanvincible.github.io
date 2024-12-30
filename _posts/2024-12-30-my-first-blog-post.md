@@ -5,7 +5,7 @@ date: 2024-12-30 01:18 +0530
 ---
 I have been thinking about blogging for almost a year, but it never caught on for some reason. Finally, after months, here I am (at the end of 2024), writing my first-ever blog post. For this one, I'll write my thoughts behind the WHY BLOGGING. I will also include things I'm involved in and things you might see in my future posts (I hope they happen, fingers crossed).
 
-One of the key reasons I decided to write blogs in the first place is to keep track of things I learned, am learning, and plan to learn. I have varied interests revolving around various topics, say, in a broader sense, software development, number theory, AI/ML, etc., and I also tend to forget things along the way.
+One of the key reasons I decided to write blogs in the first place is to keep track of things I learned, am learning, and plan to learn. I have varied interests revolving around various topics, say, in a broader sense, software development, number theory, AI/ML, etc., and I also tend to forget things along the way. I reckon these blogs will be helpful if I want to look back.
 
 Secondly, since the release of ChatGPT, I have relied on it too much. I use it as my automation tool, asking it to write emails, docs, reports, etc. In short, for any writing task requiring creativity and some thinking, I let ChatGPT take charge, resulting in my writing skills downgrading (as evident in this post). Anyway, I reckon writing blogs will help lessen the side effects of using the chatbot.
 
