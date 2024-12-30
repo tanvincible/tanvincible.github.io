@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Reading list
+permalink: /reading-list/
 last_modified_at: 2024-12-30
 ---
 
-#### [Home](/) | [About](/about/) | [Blogs](/pages/blogs.md) | [GitHub](https://github.com/tanvincible)
+#### [Home](/) | [About](/about/) | [Blogs](/blogs/) | [GitHub](https://github.com/tanvincible)
 
 # Reading List
 

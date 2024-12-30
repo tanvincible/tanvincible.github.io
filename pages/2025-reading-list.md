@@ -1,10 +1,11 @@
 ---
 layout: default
 title: 2025 Reading list
+permalink: /2025-reading-list/
 last_modified_at: 2024-12-30
 ---
 
-#### [Home](/) | [About](/about/) | [Blogs](/pages/blogs.md) | [GitHub](https://github.com/tanvincible)
+#### [Home](/) | [About](/about/) | [Blogs](/blogs/) | [GitHub](https://github.com/tanvincible)
 
 # <span class="emoji">📆</span> My 2025 Monthly Reading Plan
 

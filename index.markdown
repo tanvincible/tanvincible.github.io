@@ -4,33 +4,31 @@ title: tanvincible
 last_modified_at: 2024-12-28
 ---
 
+#### [Home](/) | [About](/about/) | [Blogs](/blogs/) | [GitHub](https://github.com/tanvincible)
+
 # tanvincible
 
 Hello there! <span class="emoji">👋</span>  
-I'm **Tanvi Pooranmal Meena** (she/her) — a builder, thinker, and problem-solver. 
+I'm **Tanvi Pooranmal Meena** (she/her) — a student and open source contributor. 
 
 This site is a reflection of my work, thoughts, and the things I’m learning.
 
 ## About Me
 
-I’m currently an undergraduate student majoring in [**Mechanical Engineering**](https://www.iitk.ac.in/me/) at [**IIT Kanpur**](https://www.iitk.ac.in/).  
-
-I’m passionate about **software development** and **machine learning**, and I spend my time simplifying complex challenges. 
-
-My goal is to keep pushing boundaries in these areas while sharing what I learn with others.
+I’m currently an undergraduate student majoring in [**Mechanical Engineering**](https://www.iitk.ac.in/me/) at [**IIT Kanpur**](https://www.iitk.ac.in/). I’m passionate about **software development** and **machine learning**, and I spend my time simplifying complex challenges. 
 
 <!--
 
 ## Explore
 
 - **What’s New**:  
-  See what I’m currently thinking and building on my [**Now page**](/pages/now).
+  See what I’m currently thinking and building on my [**Now page**](/now/).
 
 - **Ideas & Inspiration**:  
-Discover thoughts, notes, and occassional quotes in my [**Blogs**](/pages/blogs) collections.
+  Discover thoughts, notes, and occassional quotes in my [**Blogs**](/blogs/) collections.
 
 - **Resources**:  
-  Explore my [**Reading List**](/reading-list), [**Toolbox**](/pages/toolbox), and [**Recommendations**](/pages/recommendations) for useful books, tools, and resources.
+  Explore my [**Reading List**](/reading-list/), [**Toolbox**](/toolbox/), and [**Recommendations**](/recommendations/) for useful books, tools, and resources.
 
 -->
 
@@ -58,7 +56,7 @@ Your input is appreciated!
 
 ## Changelog & Site Info
 
-For updates and insights, check out the [**Changelog**](/pages/changelog) and [**Site Blueprint**](/pages/site-blueprint) page.
+For updates and insights, check out the [**Changelog**](/changelog/) and [**Site Blueprint**](/site-blueprint/) page.
 
 -->
 

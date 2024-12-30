@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Blogs
+permalink: /blogs/
 ---
 
-#### [Home](/) | [About](/about/) | [Blogs](/pages/blogs.md) | [GitHub](https://github.com/tanvincible)
+#### [Home](/) | [About](/about/) | [Blogs](/blogs/) | [GitHub](https://github.com/tanvincible)
 
 # Blogs
 
