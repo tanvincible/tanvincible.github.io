@@ -18,3 +18,5 @@ I also maintain (and use) the [**no-style-please**](https://github.com/riggraz/n
 I am also trying out [**Neovim**](https://neovim.io/). I have always used [**VS Code (Code - OSS)**](https://code.visualstudio.com/) for programming-related tasks. However, I wanted to switch to a Vim-based text editor partly because of its simplicity, to learn something new and to see if it fits my needs better.
 
 That's all for now, but I'm committed to writing more blogs and honing my writing skills. Your support and feedback are always appreciated. :)
+
+<meta name="fediverse:creator" content="@tanvincible@mastodon.social">
