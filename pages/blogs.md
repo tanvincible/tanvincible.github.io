@@ -8,7 +8,7 @@ permalink: /blogs/
 
 # Blogs
 
-Welcome to my blog! Here you'll find my thoughts, insights, and learnings.
+*A blog is just a socially acceptable way to talk to yourself—except now the whole internet can eavesdrop.*
 
 {% for post in site.posts %}
 - [**{{ post.title }}**]({{ post.url }}) <br>

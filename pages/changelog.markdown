@@ -9,9 +9,7 @@ last_modified_at: 2024-12-30
 
 # Changelog
 
-Welcome to the **Changelog**! Here, I document the evolution of this site, from small tweaks to major updates. 
-
-Feel free to check back to see how this site develops over time.
+Welcome to the **Changelog**! Here, I document major updates related to the site. 
 
 ## Navigation
 
