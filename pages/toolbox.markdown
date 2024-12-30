@@ -12,7 +12,7 @@ last_modified_at: 2024-12-30
 
 ## <span class="emoji">🖥️</span> Development Tools
 
-- **VS Code** – My go-to code editor, configured for speed and simplicity.
+- **VS Code** – My go-to code editor.
 - **GitHub Actions** – For automating CI/CD workflows.
 - **Docker** – For containerizing applications and ensuring portability.
 - **Jekyll** – The static site generator behind this site.

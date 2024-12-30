@@ -15,4 +15,4 @@ This site is built with a minimalist approach using:
 
 ## Theme
 
-The design is based on the [*no-style-please*](https://github.com/riggraz/no-style-please) theme.
+The design is based on the [**no-style-please**](https://github.com/riggraz/no-style-please) theme.
