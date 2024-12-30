@@ -36,7 +36,7 @@ I’m currently an undergraduate student majoring in [**Mechanical Engineering**
 
 - [**CV**](https://drive.google.com/file/d/1X0k_9NCodCuM3C_k_VqecOmHQqGicRVN/view?usp=sharing)  
 - [**GitHub**](https://github.com/tanvincible)
-- <strong><a rel="me" href="https://mastodon.social/@tanvincible">Mastodon</a></strong>
+- <strong><a rel="me" href="https://fosstodon.org/@tanvincible">Mastodon</a></strong>
 
 ## Contact
 
