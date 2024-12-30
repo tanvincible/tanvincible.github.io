@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/riggraz/no-style-please
-  revision: 8590b99204acf4d67251762f03edbd6090741034
+  revision: 8834f3d4912f5d86c4464c9f6bb6e26c0a0c9199
   branch: master
   specs:
     no-style-please (0.4.7)
