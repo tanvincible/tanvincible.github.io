@@ -23,7 +23,7 @@ Welcome to the **Changelog**! Here, I document major updates related to the site
 ## Site Updates
 
 ### 2024-12-30
-- Published [**My First Blog Post**]({% post_url 2024-12-30-my-first-blog-post %}).
+- Published [**My First Blog Post**]({% post_url 2024-12-30-why-blogging-and-what-to-expect %}).
 
 ### 2024-12-25
 - Moved all the pages into a dedicated **pages** folder to maintain a modular website structure.
