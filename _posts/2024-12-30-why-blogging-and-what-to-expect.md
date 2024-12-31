@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Blogging & What to Expect
+title: Why Blogging & What to Expect?
 date: 2024-12-30 01:18 +0530
 ---
 I have been thinking about blogging for almost a year, but it never caught on for some reason. Finally, after months, here I am (at the end of 2024), writing my first-ever blog post. For this one, I'll write my thoughts behind the WHY. I will also include things I'm involved in and things you might see in my future posts (I hope they happen, fingers crossed).
@@ -17,7 +17,7 @@ I also maintain (and use) the [**no-style-please**](https://github.com/riggraz/n
 
 I am also trying out [**Neovim**](https://neovim.io/). I have always used [**VS Code (Code - OSS)**](https://code.visualstudio.com/) for programming-related tasks. However, I wanted to switch to a Vim-based text editor partly because of its simplicity, to learn something new and to see if it fits my needs better.
 
-I also have diverse interests and don't confine myself to a few selected topics. I constantly learn new concepts, test new tools and frameworks (primarily open-source), and strive to contribute back to the community.
+I have diverse interests and don't confine myself to a few selected topics. I constantly learn new concepts, test emerging tools and frameworks (primarily open-source), and strive to contribute to the community.
 
 That's all for now, but I'm committed to writing more blogs and honing my writing skills. Your support and feedback are always appreciated. :)
 
