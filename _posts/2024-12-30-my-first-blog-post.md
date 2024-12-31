@@ -19,4 +19,4 @@ I am also trying out [**Neovim**](https://neovim.io/). I have always used [**VS 
 
 That's all for now, but I'm committed to writing more blogs and honing my writing skills. Your support and feedback are always appreciated. :)
 
-<meta name="fediverse:creator" content="@tanvincible@mastodon.social">
+<meta name="fediverse:creator" content="@tanvincible@fosstodon.org">
