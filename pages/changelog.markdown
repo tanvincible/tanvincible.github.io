@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 permalink: /changelog/
-last_modified_at: 2024-12-30
+last_modified_at: 2025-01-02
 ---
 
 #### [Home](/) | [About](/about/) | [Blogs](/blogs/) | [GitHub](https://github.com/tanvincible)
@@ -49,6 +49,10 @@ Welcome to the **Changelog**! Here, I document major updates related to the site
 
 ## Content Changes
 
+### 2025-01-02
+
+- Updated [**now**](/now/) page.
+
 ### 2024-12-30
 
 - Changed navigation button from [← Back to Home](/) to a simple navigation bar.
@@ -65,4 +69,4 @@ None
 
 None
 
-##### Last Updated: {{ page.last_modified_at | date: "%B %d, %Y" }}
+##### Last Updated: {{ page.last_modified_at | date: "%B, %Y" }}

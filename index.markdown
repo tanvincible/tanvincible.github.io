@@ -9,7 +9,7 @@ last_modified_at: 2024-12-28
 # tanvincible
 
 Hello there! <span class="emoji">👋</span>  
-I'm **Tanvi Pooranmal Meena** (she/her) — a student and open source contributor. 
+I'm **Tanvi Pooranmal Meena** (she/her) — a student and an open source contributor. 
 
 This site is a reflection of my work, thoughts, and the things I’m learning.
 
