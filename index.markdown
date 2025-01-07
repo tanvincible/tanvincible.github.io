@@ -46,4 +46,4 @@ Your input is appreciated!
 For updates and insights, check out the [**Changelog**](/changelog/) and [**Site Blueprint**](/site-blueprint/) page.
 
 
-##### Last Updated: {{ page.last_modified_at | date: "%B %d, %Y" }}
+##### Last Updated: {{ page.last_modified_at | date: "%B, %Y" }}

@@ -2,7 +2,7 @@
 layout: default
 title: Reading list
 permalink: /tips/
-last_modified_at: 2024-12-30
+last_modified_at: 2025-01-07
 ---
 
 #### [Home](/) | [About](/about/) | [Blogs](/blogs/) | [GitHub](https://github.com/tanvincible)
@@ -19,7 +19,7 @@ _These **tips** are actively being compiled from **"The Pragmatic Programmer: Yo
 6. Be a Catalyst for Change
 7. Remember the Big Picture
 8. Make Quality a Requirements Issue
-9. Invest Regularly in Your Knowledge Portfolio
+9. **Invest Regularly in Your Knowledge Portfolio**
 10. Critically Analyze What You Read and Hear
 11. English is Just Another Programming Language
 12. It’s Both What You Say and the Way You Say It
@@ -33,4 +33,4 @@ _These **tips** are actively being compiled from **"The Pragmatic Programmer: Yo
 20. Use Tracer Bullets to Find the Target
 21. Prototype to Learn
 
-##### Last Updated: {{ page.last_modified_at | date: "%B %d, %Y" }}
+##### Last Updated: {{ page.last_modified_at | date: "%B, %Y" }}
