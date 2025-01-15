@@ -32,7 +32,7 @@ You may find the notes in the [**iitk reporsitory**](https://github.com/tanvinci
 ### Open Source Contributions
 I'm actively maintaining the Jekyll theme [**no-style-please**](https://github.com/riggraz/no-style-please), which has over 1.1k stars, 500+ forks on GitHub, and 37,000+ downloads on RubyGems. I continue improving the theme and engaging with the community.
 
-I'm also contributing to [**Cargo**](https://github.com/rust-lang/cargo/), the Rust package manager, by helping enhance its functionality and addressing issues to improve developer workflows.
+I'm also contributing to the [**Rust**](https://github.com/rust-lang/rust/) programming language and [**sktime**](https://github.com/sktime/sktime), a Python framework for machine learning with time series.
 
 ### Competitive Programming
 I'm practising competitive programming consistently to improve my problem-solving skills. I primarily solve questions on [LeetCode](https://leetcode.com/) and [Codeforces](https://codeforces.com/).
