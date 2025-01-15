@@ -12,7 +12,6 @@ last_modified_at: 2025-01-02
 ### Academics
 I'm currently focused on my academics. My primary areas of study include:
 
-**Courses this Semester:**
 1. ECO111 - Economy, Society & Public Policy  
 (Instructor: Prof. Sounak Thakur)
 2. EE655 - Computer Vision and Deep Learning  
@@ -27,6 +26,8 @@ I'm currently focused on my academics. My primary areas of study include:
 (Instructor: Prof. Anindya Chatterjee)
 7. ME261 - Primary Manufacturing Processes  
 (Instructor: Prof. Virkeshwar Kumar)
+
+You may find the notes in the [**iitk reporsitory**](https://github.com/tanvincible/iitk).
 
 ### Open Source Contributions
 I'm actively maintaining the Jekyll theme [**no-style-please**](https://github.com/riggraz/no-style-please), which has over 1.1k stars, 500+ forks on GitHub, and 37,000+ downloads on RubyGems. I continue improving the theme and engaging with the community.
