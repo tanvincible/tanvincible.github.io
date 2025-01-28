@@ -10,7 +10,13 @@ THE CODE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
 
 Restrictions (Non-Code Content):
 
-All written content, including blogs, articles, and posts, is **not covered** under the above license and **may not be copied, reproduced, distributed, or modified** without prior written permission from the author.
+All written content in the following directories
+
+- `/_posts`
+- `/_drafts`
+- `/notes`
+
+is **not covered** under the above license and **may not be copied, reproduced, distributed, or modified** without prior written permission.
 
 For inquiries regarding licensing the written content, please reach out via mail at [**tanvipm19@gmail.com**](mailto:tanvipm19@gmail.com).
 
