@@ -5,7 +5,7 @@ permalink: /now/
 last_modified_at: 2025-01-02
 ---
 
-#### [Home](/) | [About](/about/) | [Blogs](/blogs/) | [GitHub](https://github.com/tanvincible)
+#### [Home](/) | [About](/about/) | [Blogs](/blogs/) | [Notes](/notes/) | [GitHub](https://github.com/tanvincible)
 
 # Now
 
@@ -27,7 +27,7 @@ I'm currently focused on my academics. My primary areas of study include:
 7. ME261 - Primary Manufacturing Processes  
 (Instructor: Prof. Virkeshwar Kumar)
 
-You may find the notes in the [**iitk reporsitory**](https://github.com/tanvincible/iitk).
+You may find the notes in the [**iitk notes reporsitory**](https://github.com/tanvincible/iitk).
 
 ### Open Source Contributions
 I'm actively maintaining the Jekyll theme [**no-style-please**](https://github.com/riggraz/no-style-please), which has over 1.1k stars, 500+ forks on GitHub, and 37,000+ downloads on RubyGems. I continue improving the theme and engaging with the community.

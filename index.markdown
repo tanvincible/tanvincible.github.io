@@ -1,10 +1,10 @@
 ---
 layout: default
 title: tanvincible
-last_modified_at: 2024-12-28
+last_modified_at: 2025-01-28
 ---
 
-#### [Home](/) | [About](/about/) | [Blogs](/blogs/) | [GitHub](https://github.com/tanvincible)
+#### [Home](/) | [About](/about/) | [Blogs](/blogs/) | [Notes](/notes/) | [GitHub](https://github.com/tanvincible)
 
 # tanvincible
 
@@ -15,7 +15,7 @@ This site is a reflection of my work, thoughts, and the things I’m learning.
 
 ## About Me
 
-I’m currently an undergraduate student majoring in [**Mechanical Engineering**](https://www.iitk.ac.in/me/) at [**IIT Kanpur**](https://www.iitk.ac.in/). I’m passionate about **software development** and **machine learning**, and I spend my time simplifying complex challenges. 
+I’m currently an undergraduate student majoring in [**Mechanical Engineering**](https://www.iitk.ac.in/me/) at [**IIT Kanpur**](https://www.iitk.ac.in/). I’m interested in **software development** and **machine learning**, and I spend my time learning new things. 
 
 ## Links
 

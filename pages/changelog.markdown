@@ -5,7 +5,7 @@ permalink: /changelog/
 last_modified_at: 2025-01-02
 ---
 
-#### [Home](/) | [About](/about/) | [Blogs](/blogs/) | [GitHub](https://github.com/tanvincible)
+#### [Home](/) | [About](/about/) | [Blogs](/blogs/) | [Notes](/notes/) | [GitHub](https://github.com/tanvincible)
 
 # Changelog
 

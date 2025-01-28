@@ -5,7 +5,7 @@ permalink: /2025-reading-list/
 last_modified_at: 2024-12-30
 ---
 
-#### [Home](/) | [About](/about/) | [Blogs](/blogs/) | [GitHub](https://github.com/tanvincible)
+#### [Home](/) | [About](/about/) | [Blogs](/blogs/) | [Notes](/notes/) | [GitHub](https://github.com/tanvincible)
 
 # <span class="emoji">📆</span> My 2025 Monthly Reading Plan
 

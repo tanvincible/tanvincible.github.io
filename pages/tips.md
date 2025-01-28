@@ -5,7 +5,7 @@ permalink: /tips/
 last_modified_at: 2025-01-07
 ---
 
-#### [Home](/) | [About](/about/) | [Blogs](/blogs/) | [GitHub](https://github.com/tanvincible)
+#### [Home](/) | [About](/about/) | [Blogs](/blogs/) | [Notes](/notes/) | [GitHub](https://github.com/tanvincible)
 
 ## Characteristics of a **Pragmatic Programmer** 
 
