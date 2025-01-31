@@ -17,7 +17,7 @@ _Notes will be posted shortly._
 {% for category in categories %}
 ## {{ category.name }}
 
-{% for note in site.notes %}
+{% for note in category.items %}
 - [**{{ note.title }}**]({{ note.url }}) <br>
   <small>{{ note.date | date: "%B %d, %Y" }}</small>
 {% endfor %}
