@@ -14,7 +14,7 @@ All written content in the following directories
 
 - `/_posts`
 - `/_drafts`
-- `/notes`
+- `/_notes`
 
 is **not covered** under the above license and **may not be copied, reproduced, distributed, or modified** without prior written permission.
 
