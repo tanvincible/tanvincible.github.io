@@ -15,7 +15,7 @@ This site is a reflection of my work, thoughts, and the things I’m learning.
 
 ## About Me
 
-I’m currently an undergraduate student majoring in [**Mechanical Engineering**](https://www.iitk.ac.in/me/) at [**IIT Kanpur**](https://www.iitk.ac.in/). I’m interested in **software development** and **machine learning**, and I spend my time learning new things. 
+I’m currently an undergraduate student majoring in [**Mechanical Engineering**](https://www.iitk.ac.in/me/) at [**IIT Kanpur**](https://www.iitk.ac.in/). I’m interested in **software R&D**, **algorithms** and **mathematical physics**, and I spend my time learning & building new things. 
 
 ## Links
 
