@@ -1,6 +1,6 @@
 MIT License (Code)
 
-Copyright (c) 2024 [**tanvincible**](https://github.com/tanvincible)
+Copyright (c) 2025 Tanvi Pooranmal Meena
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of the code (excluding written content, blogs, and posts) in this repository to deal in the code without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the code, and to permit persons to whom the code is furnished to do so, subject to the following conditions:
 
