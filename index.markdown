@@ -4,7 +4,7 @@ title: tanvincible
 last_modified_at: 2025-01-28
 ---
 
-#### [Home](/) | [About](/about/) | [Blogs](/blogs/) | [Notes](/notes/) | [GitHub](https://github.com/tanvincible)
+#### [Home](/) | [About](/about/) | [Blogs](https://bitzany.netlify.app/) | [Notes](/notes/) | [GitHub](https://github.com/tanvincible)
 
 # tanvincible
 

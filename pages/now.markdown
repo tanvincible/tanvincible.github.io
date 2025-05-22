@@ -5,30 +5,9 @@ permalink: /now/
 last_modified_at: 2025-03-20
 ---
 
-#### [Home](/) | [About](/about/) | [Blogs](/blogs/) | [Notes](/notes/) | [GitHub](https://github.com/tanvincible)
+#### [Home](/) | [About](/about/) | [bitzany](https://bitzany.netlify.app/) | [Notes](/notes/) | [GitHub](https://github.com/tanvincible)
 
 # Now  
-
-### Academics
-
-Lately, I’ve been focused on academics. My main areas of study include:  
-
-1. **ECO111** – Economy, Society & Public Policy  
-   *(Instructor: Prof. Sounak Thakur)*  
-2. **EE655** – Computer Vision and Deep Learning  
-   *(Instructor: Prof. Koteswar Rao Jerripothula)*  
-3. **ESO202** – Mechanics of Solids  
-   *(Instructor: Prof. Gaurav Tiwari)*  
-4. **ME222** – Nature and Properties of Materials  
-   *(Instructor: Prof. Ushasi Roy)*  
-5. **ME231** – Fluid Mechanics  
-   *(Instructor: Prof. Anikesh Pal)*  
-6. **ME252** – Theory of Mechanisms and Machines  
-   *(Instructor: Prof. Anindya Chatterjee)*  
-7. **ME261** – Primary Manufacturing Processes  
-   *(Instructor: Prof. Virkeshwar Kumar)*  
-
-I keep my notes organized in the [**IITK notes repository**](https://github.com/tanvincible/iitk).  
 
 ### Open Source & Programming
 

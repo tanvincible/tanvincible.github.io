@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-#### [Home](/) | [About](/about/) | [Blogs](/blogs/) | [Notes](/notes/) | [GitHub](https://github.com/tanvincible)
+#### [Home](/) | [About](/about/) | [bitzany](https://bitzany.netlify.app/) | [Notes](/notes/) | [GitHub](https://github.com/tanvincible)
 
 # About
 
